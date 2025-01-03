@@ -1,5 +1,3 @@
-
-```markdown
 # Advanced Password Complexity Checker
 
 A simple command-line tool built with Node.js to assess the strength of a password based on various security criteria. The tool provides a score, a strength classification, and actionable suggestions to improve the password.
@@ -99,5 +97,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Author
 
 Developed by [Apurv Nandgaonkar](https://github.com/your-username).
-
-```
